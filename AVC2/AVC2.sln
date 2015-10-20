@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVC2", "AVC2.vcxproj", "{ED12B168-A298-4CF8-A8FA-BA0427F52457}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parsing", "..\..\libraries\Adafruit_GPS\examples\parsing\parsing.vcxproj", "{E01E5F93-6046-4A65-85E6-28F0F19B1C73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPSHat3", "..\..\GPSHat3\GPSHat3.vcxproj", "{FDC8D38C-F77D-48E9-99DE-935364E867C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Blink", "..\..\Blink\Blink.vcxproj", "{33D14ADD-4072-440F-9F5E-F08E1BFDC7C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blinky2", "..\..\blinky2\blinky2.vcxproj", "{40708E4A-A2F8-4415-863F-D1F906C4D5DD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BluetothSketch", "..\..\BluetothSketch\BluetothSketch.vcxproj", "{3F859583-DA2A-4835-9217-41A8DC34EFB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TenDof", "..\..\TenDof\TenDof.vcxproj", "{7944B1AC-7E8A-43EB-98B4-9BC7AE9766AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED12B168-A298-4CF8-A8FA-BA0427F52457}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED12B168-A298-4CF8-A8FA-BA0427F52457}.Debug|Win32.Build.0 = Debug|Win32
+		{ED12B168-A298-4CF8-A8FA-BA0427F52457}.Release|Win32.ActiveCfg = Release|Win32
+		{ED12B168-A298-4CF8-A8FA-BA0427F52457}.Release|Win32.Build.0 = Release|Win32
+		{E01E5F93-6046-4A65-85E6-28F0F19B1C73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E01E5F93-6046-4A65-85E6-28F0F19B1C73}.Debug|Win32.Build.0 = Debug|Win32
+		{E01E5F93-6046-4A65-85E6-28F0F19B1C73}.Release|Win32.ActiveCfg = Release|Win32
+		{E01E5F93-6046-4A65-85E6-28F0F19B1C73}.Release|Win32.Build.0 = Release|Win32
+		{FDC8D38C-F77D-48E9-99DE-935364E867C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDC8D38C-F77D-48E9-99DE-935364E867C3}.Debug|Win32.Build.0 = Debug|Win32
+		{FDC8D38C-F77D-48E9-99DE-935364E867C3}.Release|Win32.ActiveCfg = Release|Win32
+		{FDC8D38C-F77D-48E9-99DE-935364E867C3}.Release|Win32.Build.0 = Release|Win32
+		{33D14ADD-4072-440F-9F5E-F08E1BFDC7C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33D14ADD-4072-440F-9F5E-F08E1BFDC7C8}.Debug|Win32.Build.0 = Debug|Win32
+		{33D14ADD-4072-440F-9F5E-F08E1BFDC7C8}.Release|Win32.ActiveCfg = Release|Win32
+		{33D14ADD-4072-440F-9F5E-F08E1BFDC7C8}.Release|Win32.Build.0 = Release|Win32
+		{40708E4A-A2F8-4415-863F-D1F906C4D5DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40708E4A-A2F8-4415-863F-D1F906C4D5DD}.Debug|Win32.Build.0 = Debug|Win32
+		{40708E4A-A2F8-4415-863F-D1F906C4D5DD}.Release|Win32.ActiveCfg = Release|Win32
+		{40708E4A-A2F8-4415-863F-D1F906C4D5DD}.Release|Win32.Build.0 = Release|Win32
+		{3F859583-DA2A-4835-9217-41A8DC34EFB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F859583-DA2A-4835-9217-41A8DC34EFB9}.Debug|Win32.Build.0 = Debug|Win32
+		{3F859583-DA2A-4835-9217-41A8DC34EFB9}.Release|Win32.ActiveCfg = Release|Win32
+		{3F859583-DA2A-4835-9217-41A8DC34EFB9}.Release|Win32.Build.0 = Release|Win32
+		{7944B1AC-7E8A-43EB-98B4-9BC7AE9766AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7944B1AC-7E8A-43EB-98B4-9BC7AE9766AD}.Debug|Win32.Build.0 = Debug|Win32
+		{7944B1AC-7E8A-43EB-98B4-9BC7AE9766AD}.Release|Win32.ActiveCfg = Release|Win32
+		{7944B1AC-7E8A-43EB-98B4-9BC7AE9766AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
