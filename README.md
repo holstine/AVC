@@ -20,6 +20,8 @@ There are several components added to the vehicle:
 * voltage meter (under-volt is a major problem!)
 * ultrasonic range finder
 * extra batery (ground plane issues between gps and motor controller)
+* sd card reader to record run.
+* transmitter modified with Autonomous/Manual switch
 
 
 
@@ -123,6 +125,7 @@ New This year
 - speed controlled at waypoint approach
 - Stop and backup
 
+## Finished features
 *Telemetry
 *Input from tablet
 *Waypoint input via tablet
@@ -154,7 +157,7 @@ New This year
 *remove left turn wonkyness
 *Straight line and square track bias
 *save settings
-- startup calibration- fail if gyro not working*gps*gps fails to start up
+- startup calibration- fail if gyro not working
 *compass calibration function
 *determine appropriate variances
 *odo variance
